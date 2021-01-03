@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=gCircle
+comment1.params=n
+comment1.target=gCircle(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ gCircle\r\n
+comment2.params=n
+comment2.target=void\ matrix(int)
+comment2.text=\r\n\ Object\ to\ create\ the\ matrix\r\n\r\n\ @param\ \ n,\ the\ size\ of\ the\ matrix\r\n\ \r\n
+comment3.params=
+comment3.target=int\ random()
+comment3.text=\r\n\ Method\ to\ create\ random\ numbers\r\n\ \r\n
+comment4.params=
+comment4.target=void\ eigenvalue()
+comment4.text=\r\nMethod\ to\ find\ the\ eigenvalues\ of\ any\ matrix\ \r\n\r\n\ 1/02/2020\ note,\ seems\ i\ do\ not\ know\ how\ to\ make\ the\ randomly\ created\ \r\n\ matrix\ rom\ the\ matrix\ method\ publicly\ available.\ Shelf\ this\ method\ for\ now.\ \r\n\ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ method\ to\ draw\ the\ Gersgorin\ Circles\r\n\ \r\n\ \r\n
+numComments=6
